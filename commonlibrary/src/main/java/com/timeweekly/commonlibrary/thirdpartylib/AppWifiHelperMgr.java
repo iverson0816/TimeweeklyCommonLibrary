@@ -1,4 +1,4 @@
-package com.timeweekly.commonlibrary;
+package com.timeweekly.commonlibrary.thirdpartylib;
 
 import android.content.Context;
 import android.net.wifi.ScanResult;
